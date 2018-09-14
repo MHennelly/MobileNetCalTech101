@@ -3,3 +3,5 @@ secret_test/
 Graph/
 101_ObjectCategories/
 __pycache__/
+models/
+.json
